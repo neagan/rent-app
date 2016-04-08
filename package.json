@@ -1,0 +1,14 @@
+{
+  "name": "rent-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "neagan26@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.5"
+  }
+}
