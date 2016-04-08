@@ -6,6 +6,8 @@ const app = electron.app;
 // Browser window creation module
 const BrowserWindow = electron.BrowserWindow;
 
+require('electron-reload')('index.js');
+
 // Global reference to main window object
 let mainWindow;
 
